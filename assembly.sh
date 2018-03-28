@@ -17,7 +17,7 @@ FILE2=''
 function show_help(){
 
 echo "Pre-process for antibody library assembly"
-echo "Usage : ./preprocess.sh [options]"
+echo "Usage : ./assembly.sh [options]"
 echo "[options]"
 echo ""
 echo "    -v         BOOL            verbose"
