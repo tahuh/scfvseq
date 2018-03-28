@@ -4,5 +4,5 @@ Scfv-seq : a high-throuput pipeline for analyse antibody library
 Note : The manuscript of this pipeline is under preparation.
 
 ## Authors
-Sunghoon Heo - Maintain this repository
+Sunghoon Heo - Maintain this repository<br>
 Byungjin Hwang - Collaborator
